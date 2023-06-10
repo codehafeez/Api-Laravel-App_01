@@ -15,7 +15,13 @@ http://127.0.0.1:8000/api/data
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-example_app5/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-App_01/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-App_01/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-App_01/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-App_01/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-App_01/main/Screenshots/Output-05.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-App_01/main/Screenshots/Output-06.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-App_01/main/Screenshots/Output-07.png)
 
 
 ## 🔗 www.codehafeez.com
